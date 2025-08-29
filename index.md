@@ -14,16 +14,17 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+## This is a test
 - Bulleted
 - List
-
+- Cool
 1. Numbered
 2. List
-
+3. One Two Three
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+[Link To Itself](https://Purdue-CS193.github.io/homework-0-dzirvi/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
